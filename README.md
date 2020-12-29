@@ -1,4 +1,4 @@
-# trending-languages-MSA
+# Trending-languages-MSA
 REST microservice that list the languages used by the first 100 trending public repos on GitHub created during the last 30 days.<br/>
 
 For every language, the miscroservice display:<br/>
