@@ -30,7 +30,7 @@ public class Item {
     @JsonProperty("url")
     private String url;
     @JsonProperty("language")
-    private Object language;
+    private String language;
     @JsonProperty("created_at")
     private String createdAt;
 
@@ -75,12 +75,12 @@ public class Item {
     }
 
     @JsonProperty("language")
-    public Object getLanguage() {
+    public String getLanguage() {
         return language;
     }
 
     @JsonProperty("language")
-    public void setLanguage(Object language) {
+    public void setLanguage(String language) {
         this.language = language;
     }
 
