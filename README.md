@@ -8,7 +8,7 @@ For every language, the miscroservice display:<br/>
 
 The gitHub API used here is : [search-repositories](https://docs.github.com/en/free-pro-team@latest/rest/reference/search#search-repositories)
 # Technologies
-  *SpringBoot<br/>
+  *SpringBoot v2.4.1<br/>
   *RestTemplate<br/>
   *Java 8<br/>
   *Swagger 2 (documenting the microservice)
